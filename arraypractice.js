@@ -7,7 +7,7 @@ let filmHero = ['salman','shahrukh','akshay'];
 // console.log(superHero);
 
 let allmix = superHero.concat(filmHero);
-// console.log(allmix);
+console.log(allmix);
 
 // superHero.push(...filmHero);
 // console.log(superHero);
